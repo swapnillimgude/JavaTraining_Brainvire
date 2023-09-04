@@ -11,7 +11,7 @@ public class LambdaEx1 {
 		
 		addition a= (x,y) -> { System.out.println("addition : "+(x+y));};
 		a.add(12, 30);
-
+		a.add(100, 330);
 	}
 
 }
